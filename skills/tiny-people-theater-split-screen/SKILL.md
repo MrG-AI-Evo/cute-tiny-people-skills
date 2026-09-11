@@ -1,9 +1,9 @@
 ---
-name: tiny-world-poster
-description: 小人剧场分屏版：将每张上传的真实照片生成一张完整的 3:4 上下分屏编辑海报，上半保留真实摄影场景，下半加入从原图提炼的趣味小人故事。适用于小人剧场分屏版、真实照片＋趣味小人海报或上下分区小人海报；只要独立小人故事图时应使用小人剧场。
+name: tiny-people-theater-split-screen
+description: Tiny People Theater Split-Screen（小人剧场分屏版）：将每张上传的真实照片生成一张完整的 3:4 上下分屏编辑海报，上半保留真实摄影场景，下半加入从原图提炼的趣味小人故事。适用于小人剧场分屏版、真实照片＋趣味小人海报或上下分区小人海报；只要独立小人故事图时应使用 Tiny People Theater。
 ---
 
-# 小人剧场分屏版
+# Tiny People Theater: Split-Screen Edition（小人剧场分屏版）
 
 Create the finished poster in one image-generation/editing pass whenever possible. Each source photo produces one independent poster. Never combine different photos into a collage, collection, contact sheet, or multi-image grid.
 

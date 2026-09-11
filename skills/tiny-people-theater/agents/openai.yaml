@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tiny People Theater"
+  short_description: "从真实照片提炼视觉锚点，生成独立的趣味黑线小人故事图"
+  default_prompt: "用 $tiny-people-theater 把我上传的照片生成一张独立的 Tiny People Theater 故事图。"

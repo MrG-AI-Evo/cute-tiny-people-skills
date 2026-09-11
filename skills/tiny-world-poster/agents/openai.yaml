@@ -1,4 +1,0 @@
-interface:
-  display_name: "小人剧场分屏版"
-  short_description: "将真实照片一次生成上下五五分区的趣味小人叙事编辑海报"
-  default_prompt: "用 $tiny-world-poster 把每张上传照片生成一张完整的“小人剧场分屏版”编辑海报。"
