@@ -1,9 +1,9 @@
 ---
 name: tiny-world-poster
-description: Create one complete 3:4 split-layout editorial poster from each uploaded real photo, preserving the photographic scene above and adding a source-derived tiny-people story below. Use for 真实照片＋趣味小人海报、上下分区小人海报、照片里的小人剧场, or when the user invokes this skill. Do not use when the user requests only a standalone tiny-people story panel.
+description: 小人剧场分屏版：将每张上传的真实照片生成一张完整的 3:4 上下分屏编辑海报，上半保留真实摄影场景，下半加入从原图提炼的趣味小人故事。适用于小人剧场分屏版、真实照片＋趣味小人海报或上下分区小人海报；只要独立小人故事图时应使用小人剧场。
 ---
 
-# 照片里的小人剧场
+# 小人剧场分屏版
 
 Create the finished poster in one image-generation/editing pass whenever possible. Each source photo produces one independent poster. Never combine different photos into a collage, collection, contact sheet, or multi-image grid.
 

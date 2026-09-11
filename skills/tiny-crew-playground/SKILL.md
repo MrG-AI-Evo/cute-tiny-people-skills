@@ -1,9 +1,9 @@
 ---
 name: tiny-crew-playground
-description: Create one standalone 3:2 editorial tiny-people story image from each uploaded real photo by extracting 1–3 source-faithful visual anchors. Use for 小人故事图、趣味小人图、只要小人部分、不要上下拼接, or when the user invokes this skill. Do not use when the user requests a complete 3:4 split poster containing the original photograph above.
+description: 小人剧场：从每张上传的真实照片提取 1–3 个忠于原图的视觉锚点，生成一张独立的 3:2 编辑式趣味小人故事图。适用于小人剧场、小人故事图、趣味小人图、只要小人部分或不要上下拼接；完整 3:4 上下分屏海报应使用小人剧场分屏版。
 ---
 
-# 小人忙着呢
+# 小人剧场
 
 Turn each supplied photograph into one newly generated, independent tiny-people story image. Do not include the original photograph as a separate panel and do not composite an upper/lower poster.
 

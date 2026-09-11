@@ -1,4 +1,4 @@
 interface:
-  display_name: "小人忙着呢"
+  display_name: "小人剧场"
   short_description: "从真实照片提炼视觉锚点，生成独立的趣味黑线小人故事图"
-  default_prompt: "Use $tiny-crew-playground to turn my uploaded photo into one standalone tiny-people story image."
+  default_prompt: "用 $tiny-crew-playground 把我上传的照片生成一张独立的“小人剧场”故事图。"

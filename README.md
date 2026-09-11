@@ -1,10 +1,12 @@
-# Cute Tiny People Skills｜照片小人系列
+# 小人剧场 Skills｜Tiny People Theater
 
-两款把真实照片变成“小人叙事”视觉作品的 Codex Skills。上传照片后，可直接调用对应 Skill 出图；默认每张照片只生成一张成品，不批量出变体。
+两款把真实照片变成“小人叙事”视觉作品的 Codex Skills：**小人剧场**与**小人剧场分屏版**。上传照片后，可直接调用对应 Skill 出图；默认每张照片只生成一张成品，不批量出变体。
+
+搜索关键词：小人剧场 Skill、小人剧场分屏版 Skill、真实照片趣味小人、照片小人海报、Codex image skill、tiny people photo skill。
 
 ## 包含的 Skills
 
-### 小人忙着呢
+### 小人剧场
 
 Skill 名：`$tiny-crew-playground`
 
@@ -12,7 +14,7 @@ Skill 名：`$tiny-crew-playground`
 
 支持四种统一人物语言：细线编辑、松弛涂鸦、几何极简、诗意轮廓。
 
-### 照片里的小人剧场
+### 小人剧场分屏版
 
 Skill 名：`$tiny-world-poster`
 
@@ -26,6 +28,18 @@ Skill 名：`$tiny-world-poster`
 - `https://github.com/MrG-AI-Evo/cute-tiny-people-skills/tree/main/skills/tiny-world-poster`
 
 也可以克隆本仓库，将对应 Skill 目录复制到个人 Skills 目录后重启 Codex。
+
+可直接把下面任意一句发给 Codex：
+
+```text
+请使用 $skill-installer 安装“小人剧场”：
+https://github.com/MrG-AI-Evo/cute-tiny-people-skills/tree/main/skills/tiny-crew-playground
+```
+
+```text
+请使用 $skill-installer 安装“小人剧场分屏版”：
+https://github.com/MrG-AI-Evo/cute-tiny-people-skills/tree/main/skills/tiny-world-poster
+```
 
 ## 使用
 
@@ -48,4 +62,3 @@ Skill 名：`$tiny-world-poster`
 - 核心主体、材质、颜色、空间关系和照片身份特征应忠于上传的原图。
 - 不擅自添加品牌、地点、动物、建筑、Logo 或无关道具。
 - 图像生成结果仍可能存在文字或肢体细节偏差；Skill 会在出现实质性错误时进行最多一次聚焦修正。
-
