@@ -34,13 +34,17 @@ Skill 名：`$tiny-people-theater-split-screen`
 可直接把下面任意一句发给 Codex：
 
 ```text
-请使用 $skill-installer 从仓库根目录安装 Tiny People Theater：
-https://github.com/MrG-AI-Evo/tiny-people-theater-skill
+请使用 $skill-installer 安装这个公开 GitHub 仓库中的 Skill：
+仓库：https://github.com/MrG-AI-Evo/tiny-people-theater-skill
+路径：.
+安装名：tiny-people-theater
 ```
 
 ```text
-请使用 $skill-installer 从仓库根目录安装 Tiny People Theater: Split-Screen Edition：
-https://github.com/MrG-AI-Evo/tiny-people-theater-split-screen-skill
+请使用 $skill-installer 安装这个公开 GitHub 仓库中的 Skill：
+仓库：https://github.com/MrG-AI-Evo/tiny-people-theater-split-screen-skill
+路径：.
+安装名：tiny-people-theater-split-screen
 ```
 
 ## 使用
