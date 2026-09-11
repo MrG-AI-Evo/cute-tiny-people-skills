@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片里的小人剧场"
+  short_description: "将真实照片一次生成上下五五分区的趣味小人叙事编辑海报"
+  default_prompt: "Use $tiny-world-poster to turn each uploaded photo into one complete split-layout editorial poster."
